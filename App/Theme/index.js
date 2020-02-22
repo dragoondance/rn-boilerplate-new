@@ -1,8 +1,15 @@
+import Background from './Background'
+import Border from './Border'
 import Colors from './Colors'
 import Fonts from './Fonts'
+import Container from './Container'
+import Column from './Column'
+import Row from './Row'
+import Margin from './Margin'
+import Padding from './Padding'
 import Metrics from './Metrics'
 import Images from './Images'
 import Helpers from './Helpers'
 import ApplicationStyles from './ApplicationStyles'
 
-export { Colors, Fonts, Images, Metrics, Helpers, ApplicationStyles }
+export { Background, Border, Colors, Fonts, Container, Column, Row, Margin, Padding, Images, Metrics, Helpers, ApplicationStyles }
